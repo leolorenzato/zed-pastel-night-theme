@@ -1,7 +1,7 @@
 # 🌃 Pastel Night
 
-![GitHub License](https://github.com/leolorenzato/zed-pastel-night-theme)
-![GitHub Release](https://github.com/leolorenzato/zed-pastel-night-theme)
+![GitHub License](https://img.shields.io/github/license/leolorenzato/zed-pastel-night-theme)
+![GitHub Release](https://img.shields.io/github/v/release/leolorenzato/zed-pastel-night-theme)
 
 **Pastel Night** theme for [Zed](https://zed.dev/)
 
