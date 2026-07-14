@@ -1,0 +1,1 @@
+# zed-pastel-night-theme
