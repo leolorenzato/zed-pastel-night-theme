@@ -403,13 +403,18 @@
                         "font_style": null,
                         "font_weight": null
                     },
+                    "function.definition": {
+                        "color": "#edd7a6",
+                        "font_style": null,
+                        "font_weight": null
+                    },
                     "function.builtin": {
                         "color": "#efab81",
                         "font_style": null,
                         "font_weight": null
                     },
                     "function.call": {
-                        "color": "#8cd6ca",
+                        "color": "#edd7a6",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -419,12 +424,27 @@
                         "font_weight": null
                     },
                     "function.method": {
-                        "color": "#83acee",
+                        "color": "#edd7a6",
                         "font_style": null,
                         "font_weight": null
                     },
                     "function.method.call": {
-                        "color": "#8cd6ca",
+                        "color": "#edd7a6",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "function.decorator.call": {
+                        "color": "#f5c2e7",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "function.kwargs": {
+                        "color": "#abb4f2",
+                        "font_style": null,
+                        "font_weight": null
+                    },
+                    "function.special": {
+                        "color": "#f5c2e7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -674,12 +694,12 @@
                         "font_weight": 700
                     },
                     "function.decorator": {
-                        "color": "#8cd6ca",
+                        "color": "#f5c2e7",
                         "font_style": null,
                         "font_weight": null
                     },
                     "type.class.definition": {
-                        "color": "#edd7a6",
+                        "color": "#8cd6ca",
                         "font_style": null,
                         "font_weight": 500
                     },
