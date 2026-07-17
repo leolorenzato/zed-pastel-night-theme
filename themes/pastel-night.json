@@ -120,7 +120,7 @@
                 "terminal.ansi.green": "#9ad395",
                 "terminal.ansi.yellow": "#edd7a6",
                 "terminal.ansi.blue": "#83acee",
-                "terminal.ansi.magenta": "#f5c2e7",
+                "terminal.ansi.magenta": "#ebb9dd",
                 "terminal.ansi.cyan": "#8cd6ca",
                 "terminal.ansi.bright_black": "#3d3f4f",
                 "terminal.ansi.bright_white": "#9da3bd",
@@ -128,7 +128,7 @@
                 "terminal.ansi.bright_green": "#9ad395",
                 "terminal.ansi.bright_yellow": "#edd7a6",
                 "terminal.ansi.bright_blue": "#83acee",
-                "terminal.ansi.bright_magenta": "#f5c2e7",
+                "terminal.ansi.bright_magenta": "#ebb9dd",
                 "terminal.ansi.bright_cyan": "#8cd6ca",
                 "terminal.ansi.dim_black": "#3d3f4f",
                 "terminal.ansi.dim_white": "#9da3bd",
@@ -136,7 +136,7 @@
                 "terminal.ansi.dim_green": "#9ad395",
                 "terminal.ansi.dim_yellow": "#edd7a6",
                 "terminal.ansi.dim_blue": "#83acee",
-                "terminal.ansi.dim_magenta": "#f5c2e7",
+                "terminal.ansi.dim_magenta": "#ebb9dd",
                 "terminal.ansi.dim_cyan": "#8cd6ca",
                 "link_text.hover": "#83acee",
                 "conflict": "#efab81",
@@ -298,17 +298,17 @@
                         "font_weight": null
                     },
                     "string.escape": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
                     "string.special": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
                     "string.special.path": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -328,7 +328,7 @@
                         "font_weight": null
                     },
                     "character.special": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -433,7 +433,7 @@
                         "font_weight": null
                     },
                     "function.decorator.call": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -443,7 +443,7 @@
                         "font_weight": null
                     },
                     "function.special": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -523,12 +523,12 @@
                         "font_weight": null
                     },
                     "keyword.directive": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
                     "keyword.directive.define": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -553,7 +553,7 @@
                         "font_weight": null
                     },
                     "punctuation.special": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -648,7 +648,7 @@
                         "font_weight": null
                     },
                     "symbol": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -693,7 +693,7 @@
                         "font_weight": 700
                     },
                     "function.decorator": {
-                        "color": "#f5c2e7",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },

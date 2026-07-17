@@ -32,6 +32,6 @@
 | ![#edd7a6](https://placehold.co/20x20/edd7a6/edd7a6.png) | `#edd7a6` |
 | ![#efab81](https://placehold.co/20x20/efab81/efab81.png) | `#efab81` |
 | ![#e783a0](https://placehold.co/20x20/e783a0/e783a0.png) | `#e783a0` |
-| ![#f5c2e7](https://placehold.co/20x20/f5c2e7/f5c2e7.png) | `#f5c2e7` |
+| ![#ebb9dd](https://placehold.co/20x20/ebb9dd/ebb9dd.png) | `#ebb9dd` |
 | ![#8cd6ca](https://placehold.co/20x20/8cd6ca/8cd6ca.png) | `#8cd6ca` |
 
