@@ -5,6 +5,7 @@
 
 **Pastel Night** theme for [Zed](https://zed.dev/)
 
+![Screenshot](./assets/pastel-night-theme-zed-1.png)
 ## ⚙️ Configuration
 
 - Download the [theme file](https://github.com/leolorenzato/zed-pastel-night-theme/blob/main/themes/pastel-night.json).
@@ -35,3 +36,6 @@
 | ![#ebb9dd](https://placehold.co/20x20/ebb9dd/ebb9dd.png) | `#ebb9dd` |
 | ![#8cd6ca](https://placehold.co/20x20/8cd6ca/8cd6ca.png) | `#8cd6ca` |
 
+## 🌟 Thanks
+
+Thanks to 😸 [Catppuccin](https://github.com/catppuccin) for the inspiration.
