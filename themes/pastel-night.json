@@ -25,14 +25,14 @@
                 "vim.visual_line.foreground": "#14141f",
                 "vim.visual_block.foreground": "#14141f",
                 "vim.replace.foreground": "#14141f",
-                "vim.normal.background": "#f2cdcd",
-                "vim.helix_normal.background": "#f2cdcd",
+                "vim.normal.background": "#ebc7c7",
+                "vim.helix_normal.background": "#ebc7c7",
                 "vim.visual.background": "#abb4f2",
                 "vim.helix_select.background": "#abb4f2",
                 "vim.insert.background": "#9ad395",
                 "vim.visual_line.background": "#abb4f2",
                 "vim.visual_block.background": "#c09deb",
-                "vim.replace.background": "#f2cdcd",
+                "vim.replace.background": "#ebc7c7",
                 "background": "#1e1e28",
                 "background.appearance": "opaque",
                 "border": "#0c0c12",
@@ -59,12 +59,12 @@
                 "text.muted": "#9da3bd",
                 "text.placeholder": "#65697d",
                 "text.disabled": "#65697d",
-                "text.accent": "#f2cdcd",
+                "text.accent": "#ebc7c7",
                 "icon": "#c0c7e1",
                 "icon.muted": "#65697d",
                 "icon.disabled": "#65697d",
                 "icon.placeholder": "#3d3f4f",
-                "icon.accent": "#f2cdcd",
+                "icon.accent": "#ebc7c7",
                 "status_bar.background": "#14141f",
                 "title_bar.background": "#14141f",
                 "title_bar.inactive_background": "#14141f",
@@ -87,9 +87,9 @@
                 "scrollbar.thumb.border": null,
                 "scrollbar.track.background": "#14141f",
                 "scrollbar.track.border": "#c0c7e112",
-                "minimap.thumb.background": "#f2cdcd15",
-                "minimap.thumb.hover_background": "#f2cdcd25",
-                "minimap.thumb.active_background": "#f2cdcd35",
+                "minimap.thumb.background": "#ebc7c715",
+                "minimap.thumb.hover_background": "#ebc7c725",
+                "minimap.thumb.active_background": "#ebc7c735",
                 "minimap.thumb.border": null,
                 "editor.foreground": "#c0c7e1",
                 "editor.background": "#1e1e28",
@@ -103,7 +103,7 @@
                 "editor.invisible": "#8c91a866",
                 "editor.wrap_guide": "#3d3f4f",
                 "editor.active_wrap_guide": "#3d3f4f",
-                "editor.document_highlight.bracket_background": "#f2cdcd35",
+                "editor.document_highlight.bracket_background": "#ebc7c735",
                 "editor.document_highlight.read_background": "#9da3bd29",
                 "editor.document_highlight.write_background": "#9da3bd29",
                 "editor.indent_guide": "#2b2d3d99",
@@ -188,9 +188,9 @@
                         "background": "#c0c7e1"
                     },
                     {
-                        "cursor": "#f2cdcd",
+                        "cursor": "#ebc7c7",
                         "selection": "#8c91a840",
-                        "background": "#f2cdcd"
+                        "background": "#ebc7c7"
                     },
                     {
                         "cursor": "#c09deb",
@@ -243,7 +243,7 @@
                         "font_weight": null
                     },
                     "variable.parameter": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -313,12 +313,12 @@
                         "font_weight": null
                     },
                     "string.special.symbol": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
                     "string.special.url": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -448,7 +448,7 @@
                         "font_weight": null
                     },
                     "constructor": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -558,7 +558,7 @@
                         "font_weight": null
                     },
                     "punctuation.special.symbol": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -608,12 +608,12 @@
                         "font_weight": null
                     },
                     "comment.todo": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
                     "comment.note": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -628,7 +628,7 @@
                         "font_weight": null
                     },
                     "parameter": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -663,17 +663,17 @@
                         "font_weight": null
                     },
                     "emphasis.strong": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": 700
                     },
                     "emphasis": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
                     "embedded": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -733,7 +733,7 @@
                         "font_weight": null
                     },
                     "primary": {
-                        "color": "#f2cdcd",
+                        "color": "#ebc7c7",
                         "font_style": null,
                         "font_weight": null
                     },
