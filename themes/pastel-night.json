@@ -9,12 +9,12 @@
             "style": {
                 "accents": [
                     "#83acee",
+                    "#e783a0",
                     "#abb4f2",
-                    "#c09deb",
                     "#9ad395",
-                    "#edd7a6",
                     "#efab81",
-                    "#e783a0"
+                    "#c09deb",
+                    "#edd7a6"
                 ],
                 "vim.mode.text": "#14141f",
                 "vim.normal.foreground": "#14141f",
