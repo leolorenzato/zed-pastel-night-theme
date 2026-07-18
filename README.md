@@ -1,11 +1,15 @@
-# 🌃 Pastel Night
+<p align="center">
+  <img src="./assets/pastel-night-icon.png" width="128" alt="Icon" />
+</p>
 
-![GitHub License](https://img.shields.io/github/license/leolorenzato/zed-pastel-night-theme)
-![GitHub Release](https://img.shields.io/github/v/release/leolorenzato/zed-pastel-night-theme)
+<h1 align="center">Pastel Night for <a href="https://zed.dev/">Zed</a></h1>
 
-**Pastel Night** theme for [Zed](https://zed.dev/)
+Night vibes with pastel lights.
+
+## 📷 Preview
 
 ![Screenshot](./assets/pastel-night-theme-zed-1.png)
+
 ## ⚙️ Configuration
 
 - Download the [theme file](https://github.com/leolorenzato/zed-pastel-night-theme/blob/main/themes/pastel-night.json).
