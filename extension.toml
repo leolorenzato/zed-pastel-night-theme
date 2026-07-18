@@ -1,6 +1,6 @@
-id = "pastel-night"
-name = "pastel-night"
-version = "0.2.0"
+id = "pastel-night-theme"
+name = "pastel-night-theme"
+version = "0.3.0"
 schema_version = 1
 authors = [""]
 description = "🌃 Night vibes with pastel lights"
