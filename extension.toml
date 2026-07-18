@@ -1,7 +1,7 @@
 id = "pastel-night-theme"
-name = "pastel-night-theme"
+name = "Pastel Night Theme"
 version = "0.3.0"
 schema_version = 1
-authors = [""]
+authors = ["leolorenzato"]
 description = "🌃 Night vibes with pastel lights"
 repository = "https://github.com/leolorenzato/zed-pastel-night-theme"
