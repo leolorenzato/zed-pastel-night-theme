@@ -10,11 +10,11 @@
                 "accents": [
                     "#83acee",
                     "#e783a0",
-                    "#abb4f2",
                     "#9ad395",
                     "#efab81",
                     "#c09deb",
-                    "#edd7a6"
+                    "#edd7a6",
+                    "#abb4f2",
                 ],
                 "vim.mode.text": "#14141f",
                 "vim.normal.foreground": "#14141f",
