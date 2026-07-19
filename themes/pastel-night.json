@@ -408,7 +408,7 @@
                         "font_weight": null
                     },
                     "function.builtin": {
-                        "color": "#efab81",
+                        "color": "#edd7a6",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -418,7 +418,7 @@
                         "font_weight": null
                     },
                     "function.macro": {
-                        "color": "#8cd6ca",
+                        "color": "#ebb9dd",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -753,7 +753,7 @@
                         "font_weight": 800
                     },
                     "variant": {
-                        "color": "#e783a0",
+                        "color": "#8cd6ca",
                         "font_style": null,
                         "font_weight": null
                     }
