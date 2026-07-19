@@ -14,7 +14,7 @@
                     "#efab81",
                     "#c09deb",
                     "#edd7a6",
-                    "#abb4f2",
+                    "#abb4f2"
                 ],
                 "vim.mode.text": "#14141f",
                 "vim.normal.foreground": "#14141f",
@@ -368,12 +368,12 @@
                         "font_weight": null
                     },
                     "type.builtin": {
-                        "color": "#abb4f2",
+                        "color": "#8cd6ca",
                         "font_style": null,
                         "font_weight": null
                     },
                     "type.definition": {
-                        "color": "#edd7a6",
+                        "color": "#8cd6ca",
                         "font_style": null,
                         "font_weight": null
                     },
@@ -638,7 +638,7 @@
                         "font_weight": null
                     },
                     "namespace": {
-                        "color": "#8cd6ca",
+                        "color": "#abb4f2",
                         "font_style": null,
                         "font_weight": null
                     },
